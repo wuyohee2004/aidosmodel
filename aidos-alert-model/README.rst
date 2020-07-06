@@ -1,26 +1,12 @@
-DONUT
+AIDOS
 =====
 
-.. image:: https://travis-ci.org/haowen-xu/donut.svg?branch=master
-    :target: https://travis-ci.org/haowen-xu/donut
-.. image:: https://coveralls.io/repos/github/haowen-xu/donut/badge.svg?branch=master
-    :target: https://coveralls.io/github/haowen-xu/donut?branch=master
 
 Donut is an anomaly detection algorithm for seasonal KPIs.
 
 Citation
 --------
 
-.. code-block:: bibtex
-
-    @inproceedings{donut,
-      title={Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications},
-      author={Xu, Haowen and Chen, Wenxiao and Zhao, Nengwen and Li, Zeyan and Bu, Jiahao and Li, Zhihan and Liu, Ying and Zhao, Youjian and Pei, Dan and Feng, Yang and others},
-      booktitle={Proceedings of the 2018 World Wide Web Conference on World Wide Web},
-      pages={187--196},
-      year={2018},
-      organization={International World Wide Web Conferences Steering Committee}
-    }
 
 Dependencies
 ------------
